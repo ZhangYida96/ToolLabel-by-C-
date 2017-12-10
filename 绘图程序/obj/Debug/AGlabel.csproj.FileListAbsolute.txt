@@ -9,3 +9,6 @@ C:\Users\84225\Desktop\绘图程序\绘图程序\obj\Debug\AGlabel.Properties.Re
 C:\Users\84225\Desktop\绘图程序\绘图程序\obj\Debug\AGlabel.csproj.GenerateResource.Cache
 C:\Users\84225\Desktop\绘图程序\绘图程序\obj\Debug\AGlabel.exe
 C:\Users\84225\Desktop\绘图程序\绘图程序\obj\Debug\AGlabel.pdb
+E:\2_tech\myGit\绘图程序\绘图程序\bin\Debug\AGlabel.exe.config
+E:\2_tech\myGit\绘图程序\绘图程序\obj\Debug\AGlabel.exe
+E:\2_tech\myGit\绘图程序\绘图程序\obj\Debug\AGlabel.pdb
