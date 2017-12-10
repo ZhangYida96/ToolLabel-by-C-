@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\绘图程序.Properties.Resources.resources
+obj\Debug\绘图程序.csproj.GenerateResource.Cache
+bin\Debug\绘图程序.exe
+bin\Debug\绘图程序.pdb
+obj\Debug\绘图程序.exe
+obj\Debug\绘图程序.pdb
+bin\Debug\ColorHatch.pdb
+bin\Debug\ColorHatch.xml
+obj\Debug\绘图程序.Draw.resources
